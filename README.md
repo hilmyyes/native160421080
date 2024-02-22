@@ -1,4 +1,4 @@
-Kelompok JAR: Advance Native Mobile Programming
+Kelompok JAR: Advance Native Mobile Programming (ANMP)
 
 Anggota Kelompok: 
 - Muhammad Hilmy Irfansa (160421080)
