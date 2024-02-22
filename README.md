@@ -1,5 +1,4 @@
 Kelompok JAR: Advance Native Mobile Programming (ANMP)
-
 Date Created: Thursday, 22nd February 2024
 
 Anggota Kelompok: 
