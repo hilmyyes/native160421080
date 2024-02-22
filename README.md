@@ -1,5 +1,5 @@
 Kelompok JAR: Advance Native Mobile Programming (ANMP)
-Date Created: Thursday, 22nd February 2024
+- Date Created: Thursday, 22nd February 2024
 
 Anggota Kelompok: 
 - Muhammad Hilmy Irfansa (160421080)
