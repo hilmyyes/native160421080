@@ -5,7 +5,7 @@ class Login {
 
     @Override
     public String toString() {
-        return "Login{" +
+        return "Greetings Legionnaire! {" +
                 "username='" + username + '\'' +
                 ", password='" + password + '\'' +
                 '}';
